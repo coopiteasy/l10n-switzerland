@@ -34,10 +34,8 @@ This is especialy useful when using pre-printed paper.
 Options also allow you to print the ISR in background when using
 white paper and printing customer address in the page header.
 
-By default address format on ISR is
-`%(street)s\n%(street2)s\n%(zip)s %(city)s`
-This can be change by setting System parameter
-`isr.address.format`
+The address format on ISR can be changed by setting System parameter
+`isr.address.format`.
 
 
 Usage
